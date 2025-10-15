@@ -17,6 +17,9 @@
 
 # Task 1: Simple Repetition
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Task 1: Simple Repetition\n"
+    + "-------------------------------------------")
 # In this task, you’ll make Python repeat a simple message.
 # Example idea: printing your name or a short message several times.
 #
@@ -34,6 +37,9 @@
 
 # Task 2: Counting with for loops
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Task 2: Counting with for loops\n"
+    + "-------------------------------------------")
 # You can use range() to count numbers up or down.
 #
 # TODO:
@@ -50,6 +56,9 @@
 
 # Task 3: Using for loops with user input
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Task 3: Using for loops with user input\n"
+    + "-------------------------------------------")
 # You can combine input() with for loops.
 #
 # TODO:
@@ -83,6 +92,9 @@
 
 # Extension 1:
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Extension 1\n"
+    + "-------------------------------------------")
 # Ask the user for a word.
 # Use a for loop to print each letter of that word on a separate line.
 # Example idea:
@@ -101,6 +113,9 @@
 
 # Extension 2:
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Extension 2\n"
+    + "-------------------------------------------")
 # Ask the user to enter a number.
 # Use a for loop to print all even numbers from 0 up to that number (inclusive).
 # Hint: You can use range(start, stop, step) — for example, range(0, 10, 2)
@@ -110,6 +125,9 @@
 
 # Extension 3 (a bit harder):
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "Extension 3\n"
+    + "-------------------------------------------")
 # Ask the user for their name.
 # Use a for loop to print their name one letter at a time,
 # BUT skip any spaces in their name using an if statement.
@@ -130,6 +148,9 @@
 # -------------------------------------------
 # ADVANCED ACTIVITY
 # -------------------------------------------
+print("-------------------------------------------\n"
+    + "ADVANCED ACTIVITY\n"
+    + "-------------------------------------------")
 # Create a mini “times table” program.
 # 1. Ask the user for a number (e.g. 7)
 # 2. Use a for loop to print that number multiplied by 1 to 10.
